@@ -21,13 +21,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-[![Blade](https://img.shields.io/badge/Blade Template-E44D26?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/10.x/blade)
-
-
-
-
-
-
+[![Blade](https://img.shields.io/badge/Blade Template-E44D26?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/10.x/blade) 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![AJAX](https://img.shields.io/badge/AJAX-black?style=flat&logo=jquery&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
