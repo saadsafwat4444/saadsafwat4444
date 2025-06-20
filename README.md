@@ -24,6 +24,8 @@
 ![Blade](https://img.shields.io/badge/Blade Template-E44D26?style=flat&logo=laravel&logoColor=white)
 
 
+
+
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![AJAX](https://img.shields.io/badge/AJAX-black?style=flat&logo=jquery&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
