@@ -21,7 +21,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-[![Blade](https://img.shields.io/badge/Blade Template-E44D26?style=flat&logo=laravel&logoColor=white)](https://laravel.com/docs/10.x/blade)
+[![Blade](https://img.shields.io/badge/Blade Template-E44D26?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/10.x/blade)
+
 
 
 
